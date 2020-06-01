@@ -11,8 +11,9 @@ The provided python code was interpreted under a virtual environment called 'bhs
 
 Simply create the virtual environment on your machine as per the header in requirements.txt, navigate to your clone of this repository, then type: 
 
-conda activate bhsenv
-python myanalysis.py
+> conda activate bhsenv
+
+> python myanalysis.py
 
 **Outputs**
 
