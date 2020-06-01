@@ -5,13 +5,14 @@ This repository provides data and code to analyze correlations between brain siz
 
 **Installation**
 
-See requirements.txt, python = 3.7
+The provided python code was interpreted under a virtual environment called 'bhsenv.' The package specifics are described in the appended requirements.txt file.
 
-Running
+**Running**
+
+Simply create the virtual environment on your machine as per the header in requirements.txt, navigate to your clone of this repository, then type: 
 
 conda activate bhsenv
 python myanalysis.py
 
-Outputs
-values?
-figures?
+**Outputs**
+The code will output Spearman's correlation coefficient for brain size, FSIQ, and reaction time directly to the python console. A figure showing the correlation between FSIQ and reaction time will also be produced.
