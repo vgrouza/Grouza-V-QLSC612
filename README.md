@@ -15,4 +15,5 @@ conda activate bhsenv
 python myanalysis.py
 
 **Outputs**
+
 The code will output Spearman's correlation coefficient for brain size, FSIQ, and reaction time directly to the python console. A figure showing the correlation between FSIQ and reaction time will also be produced.
